@@ -1,8 +1,26 @@
 ---
 layout: page
-title: About
+title: 关于我自己
 ---
 
-**Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
+> 很高兴你来到我的博客，倾听我的声音。
+---
 
-For more information about Not Pure Poole, please browse the [README](https://github.com/vszhub/not-pure-poole) file.
+## 关于我
+
+我是**Georicl**，一个目前还活着的人。
+
+- **喜欢：**
+  - 了解计算机相关的一些的逻辑与技巧
+  - 猫猫狗狗
+  - **耶加雪菲**
+  - 小豆泥
+- 如何联系我：Georicl@outlook.com
+
+
+## 我在干什么
+
+是一个无业游民。\
+目前正在学习一些编程的相关技术，正在学习R，Python和C的一些技巧，并应用于生物信息学的数据处理或流程开发。
+很高兴可以通过博客和大家分享我关于技术的一些想法和一些思路，还有一些零碎的想法。
+
