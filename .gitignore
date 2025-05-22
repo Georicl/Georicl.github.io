@@ -45,3 +45,5 @@ node_modules
 # Ruby gems
 *.gem
 .fleet
+
+.vscode
